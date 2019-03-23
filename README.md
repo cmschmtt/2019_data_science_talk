@@ -1,1 +1,5 @@
-# 2019_data_science_talk
+# 2019 Atlanta Data Conference
+
+This repository contains notebooks and datasets from the March 23rd, 2019, GA data conference.
+
+
